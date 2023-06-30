@@ -1,0 +1,7 @@
+{
+  "name": "novoCarRental",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
